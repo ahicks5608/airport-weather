@@ -1,0 +1,93 @@
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Raleigh, NC",
+		"city":"Raleigh",
+		"state":"NC",
+		"state_name":"North Carolina",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"27601",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"35.77399445",
+		"longitude":"-78.63275909",
+		"elevation":"90.00000000"
+		},
+		"observation_location": {
+		"full":"Five Points, Raleigh, North Carolina",
+		"city":"Five Points, Raleigh",
+		"state":"North Carolina",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"35.807159",
+		"longitude":"-78.646606",
+		"elevation":"318 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KNCRALEI105",
+		"observation_time":"Last Updated on July 7, 12:45 PM EDT",
+		"observation_time_rfc822":"Mon, 07 Jul 2014 12:45:12 -0400",
+		"observation_epoch":"1404751512",
+		"local_time_rfc822":"Mon, 07 Jul 2014 12:47:07 -0400",
+		"local_epoch":"1404751627",
+		"local_tz_short":"EDT",
+		"local_tz_long":"America/New_York",
+		"local_tz_offset":"-0400",
+		"weather":"Mostly Cloudy",
+		"temperature_string":"88.7 F (31.5 C)",
+		"temp_f":88.7,
+		"temp_c":31.5,
+		"relative_humidity":"51%",
+		"wind_string":"From the West at 4.5 MPH Gusting to 12.1 MPH",
+		"wind_dir":"West",
+		"wind_degrees":270,
+		"wind_mph":4.5,
+		"wind_gust_mph":"12.1",
+		"wind_kph":7.2,
+		"wind_gust_kph":"19.5",
+		"pressure_mb":"1017",
+		"pressure_in":"30.04",
+		"pressure_trend":"-",
+		"dewpoint_string":"68 F (20 C)",
+		"dewpoint_f":68,
+		"dewpoint_c":20,
+		"heat_index_string":"93 F (34 C)",
+		"heat_index_f":93,
+		"heat_index_c":34,
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"93 F (34 C)",
+		"feelslike_f":"93",
+		"feelslike_c":"34",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"--",
+		"UV":"6","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"mostlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/US/NC/Raleigh.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KNCRALEI105",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=35.807159,-78.646606",
+		"nowcast":""
+	}
+}
